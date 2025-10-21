@@ -1,0 +1,5 @@
+{
+  "name": "CV vs Job Description Analyzer",
+  "description": "An AI-powered tool to compare a CV against a job description. Upload both PDF documents to receive a detailed compatibility analysis, including a match score, key strengths, and potential gaps.",
+  "requestFramePermissions": []
+}
